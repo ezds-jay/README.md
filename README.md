@@ -8,7 +8,7 @@ This is an EasyDataScience Corp repository for students who want to learn more a
 Our vision is to equip people who are interested in this field from various backgrounds to successfully get attached to their domains and delivering new, advanced technologies to their fields. 
 If you have any questions of getting experience or getting educated please feel free to contact us via [email](easydatascience@naver.com)
 
-- Jay
+-- Jay
 
 
 
